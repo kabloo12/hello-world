@@ -1,2 +1,3 @@
 # hello-world
-first git
+
+Hi everyone I'm actually gonna try now
